@@ -1,0 +1,7 @@
+# Star Raid is a standalone HTML/CSS/JavaScript game.
+# Deploy the repository root directly; no build or dependencies are required.
+[build]
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "22"
